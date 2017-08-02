@@ -1,0 +1,14 @@
+.intro {
+  font-family:fantasy;
+  text-align: center;
+  color: #4286f4;
+}
+
+.important {
+  color:red;
+}
+
+.content {
+  font-family:monospace;
+  font-size:24px;
+}
