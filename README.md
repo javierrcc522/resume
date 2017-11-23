@@ -8,8 +8,7 @@
 
 _A practice website where we created a resume_
 
-![Screenshot](https://github.com/javierrcc522/resume/img/pic1.png "Screen Capture")
-
+![Screenshot](/img/pic1.png)
 
 ## Setup/Installation Requirements
 
